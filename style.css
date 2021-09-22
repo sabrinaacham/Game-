@@ -4,31 +4,122 @@
 body {
 
 font-family: 'Bebas Neue', sans-serif;
+background-color:rgb(236,200,188) ;
+h1 {
+  font-size: 20000px
+}
 
 }
 
 .header {
 
-border: 10px solid;
-
+border: 20px solid;
 text-align: center;
 border-radius: 5px;
-max-width: 250px;
-padding:100Spx;
-margin: sepx auto 10px auto;
-background-color: pink;
-color: #4C5270 ;
+max-width: 2500px;
+max-height: 2500000px;
+padding:25px;
+margin: 100px auto 100px auto;
+background-color: white;
+color: pink;
 border-color: rgb(188,236,224) ;
 
 }
 
-table{
+table {
 
 border-collapse: collapse;
 
 margin: auto;
 
 margin-top: 100px;
+
+th{
+
+#figure1{
+  width: 50px;
+  height: 50px;
+  Background-image: url("images/rabbit#1.jpg");
+}
+
+#figure1:hover{
+  Background-image: url("images/rottie#2.jpg");
+}
+
+#figure2{
+  width: 50px;
+  height: 50px;
+  Background-image: url("images/rabbit#2.jpg");
+}
+
+  #figure2:hover{
+    Background-image: url("images/rottie#2.jpg");
+  }
+
+#figure3{
+      width: 50px;
+      height: 50px;
+      Background-image: url("images/rabbit#3.jpg");
+  }
+
+  #figure3:hover{
+        Background-image: url("images/rottie#2.jpg");
+  }
+
+#figure4{
+          width: 50px;
+          height: 50px;
+          Background-image: url("images/rabbit#2.jpg");
+}
+
+  #figure4:hover{
+          Background-image: url("images/rottie#2.jpg");
+}
+
+#figure5{
+  width: 50px;
+  height: 50px;
+  Background-image: url("images/rabbit#4.jpg");
+}
+#figure5:hover{
+        Background-image: url("images/rottie#2.jpg");
+
+}
+#figure6{
+  width: 50px;
+  height: 50px;
+  Background-image: url("images/rabbit#5.jpg");
+}
+#figure6:hover{
+         background-image: url("images/rottie#2.jpg");
+}
+#figure7{
+  width: 50px;
+  height: 50px;
+  Background-image: url("images/rabbit#5.jpg");
+}
+#figure7:hover{
+         background-image: url("images/rottie#2.jpg");
+}
+#figure8:{
+  width: 50px;
+  height: 50px;
+  background-image:url("image/rabbit#3.jpg");
+}
+#figure8:hover{
+  width:50px;
+  height:50px;
+background-image:url("image/rottie#2.jpg");
+  }
+#figure9{
+  width: 50px;
+  height: 50px;
+background-image:url("image/rabbit#1.jpg");
+}
+#figure9: hover{
+  width:50px;
+  height:50px;
+background-image: url("image/rottie#2.jpg");
 }
 
 td {
@@ -41,6 +132,7 @@ td:hover{
 
 display: ;
  }
+
 .figure{
 
 position: relative;
