@@ -5,11 +5,12 @@ body {
 
 font-family: 'Bebas Neue', sans-serif;
 background-color:rgb(236,200,188) ;
+}
 h1 {
-  font-size: 2500000px
+  font-size: 25px;
 }
 
-}
+
 
 .header {
 
@@ -38,87 +39,87 @@ margin-top: 100px;
 #figure1{
   width: 50px;
   height: 50px;
-  Background-image: url("images/rabbit#1.jpg");
+  Background-image: url("images/rabbit1.jpg");
 }
 
 #figure1:hover{
-  Background-image: url("images/rottie#2.jpg");
+  Background-image: url("images/rottie2.jpg");
 }
 
 #figure2{
   width: 50px;
   height: 50px;
-  Background-image: url("images/rabbit#2.jpg");
+  Background-image: url("images/rabbit2.jpg");
 }
 
   #figure2:hover{
-    Background-image: url("images/rottie#2.jpg");
+    Background-image: url("images/rottie2.jpg");
   }
 
 #figure3{
       width: 50px;
       height: 50px;
-      Background-image: url("images/rabbit#3.jpg");
+      Background-image: url("images/rabbit3.jpg");
   }
 
   #figure3:hover{
-        Background-image: url("images/rottie#2.jpg");
+        Background-image: url("images/rottie2.jpg");
   }
 
 #figure4{
           width: 50px;
           height: 50px;
-          Background-image: url("images/rabbit#2.jpg");
+          Background-image: url("images/rabbit2.jpg");
 }
 
   #figure4:hover{
-          Background-image: url("images/rottie#2.jpg");
+          Background-image: url("images/rottie2.jpg");
 }
 
 #figure5{
   width: 50px;
   height: 50px;
-  Background-image: url("images/rabbit#4.jpg");
+  Background-image: url("images/rabbit4.jpg");
 }
 #figure5:hover{
-        Background-image: url("images/rottie#2.jpg");
+        Background-image: url("images/rottie2.jpg");
 
 }
 #figure6{
   width: 50px;
   height: 50px;
-  Background-image: url("images/rabbit#5.jpg");
+  Background-image: url("images/rabbit5.jpg");
 }
 #figure6:hover{
-         background-image: url("images/rottie#2.jpg");
+         background-image: url("images/rottie2.jpg");
 }
 #figure7{
   width: 50px;
   height: 50px;
-  Background-image: url("images/rabbit#5.jpg");
+  Background-image: url("images/rabbit5.jpg");
 }
 #figure7:hover{
-         background-image: url("images/rottie#2.jpg");
+         background-image: url("images/rottie2.jpg");
 }
 #figure8:{
   width: 50px;
   height: 50px;
-  background-image:url("image/rabbit#3.jpg");
+  background-image:url("image/rabbit3.jpg");
 }
 #figure8:hover{
   width:50px;
   height:50px;
-background-image:url("image/rottie#2.jpg");
+background-image:url("image/rottie2.jpg");
   }
 #figure9{
   width: 50px;
   height: 50px;
-background-image:url("image/rabbit#1.jpg");
+background-image:url("image/rabbit1.jpg");
 }
 #figure9:hover{
   width:50px;
   height:50px;
-background-image: url("image/rottie#2.jpg");
+background-image: url("image/rottie2.jpg");
 }
 
 /*td {
