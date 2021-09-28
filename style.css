@@ -20,7 +20,7 @@ border-radius: 5px;
 max-width: 2500px;
 max-height: 2500000px;
 padding:25px;
-margin: 100px auto 100px auto;
+margin: 100px auto 15px auto;
 background-color: white;
 color: pink;
 border-color: rgb(188,236,224) ;
@@ -29,6 +29,7 @@ border-color: rgb(188,236,224) ;
 
 table {
   }
+
 th, td {
     padding: 7px 10px 10px 10px;}
 
@@ -42,92 +43,86 @@ th{
 }
 
 
-#figure1{
-  width: 50px;
-  height: 50px;
+#figure1:hover{
+
   Background-image: url("images/rabbit1.jpg");
 }
 
-#figure1:hover{
+#figure1{
   Background-image: url("images/rottie2.jpg");
 }
 
-#figure2{
-  width: 50px;
-  height: 50px;
+#figure2:hover{
+
   Background-image: url("images/rabbit2.jpg");
 }
 
-  #figure2:hover{
+  #figure2{
     Background-image: url("images/rottie2.jpg");
   }
 
-#figure3{
-      width: 50px;
-      height: 50px;
+#figure3:hover{
+
       Background-image: url("images/rabbit3.jpg");
   }
 
-  #figure3:hover{
+  #figure3{
         Background-image: url("images/rottie2.jpg");
   }
 
-#figure4{
-          width: 50px;
-          height: 50px;
+#figure4:hover{
+
           Background-image: url("images/rabbit2.jpg");
 }
 
-  #figure4:hover{
+  #figure4{
           Background-image: url("images/rottie2.jpg");
 }
 
-#figure5{
-  width: 50px;
-  height: 50px;
+#figure5:hover{
+
   Background-image: url("images/rabbit4.jpg");
 }
-#figure5:hover{
+#figure5{
         Background-image: url("images/rottie2.jpg");
 
 }
-#figure6{
-  width: 50px;
-  height: 50px;
-  Background-image: url("images/rabbit5.jpg");
-}
 #figure6:hover{
-         background-image: url("images/rottie2.jpg");
-}
-#figure7{
-  width: 50px;
-  height: 50px;
+
   Background-image: url("images/rabbit5.jpg");
+}
+#figure6{
+         background-image: url("images/rottie2.jpg");
 }
 #figure7:hover{
+
+  Background-image: url("images/rabbit5.jpg");
+}
+#figure7{
          background-image: url("images/rottie2.jpg");
 }
-#figure8{
-  width: 50px;
-  height: 50px;
+#figure8:hover{
+
   background-image:url("images/rabbit3.jpg");
 }
-#figure8:hover{
-  width:50px;
-  height:50px;
+#figure8{
+
 background-image:url("images/rottie2.jpg");
   }
-#figure9{
-  width: 50px;
-  height: 50px;
+#figure9:hover{
+
 background-image:url("images/rabbit1.jpg");
 }
-#figure9:hover{
-  width:50px;
-  height:50px;
+#figure9{
+
 background-image: url("images/rottie2.jpg");
 }
 
+td>div {
+  width:150px;
+  height:150px;
+  background-size: cover;
+}
 /*td {
 
 border: 5px solid black;
