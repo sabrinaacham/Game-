@@ -110,22 +110,22 @@ th{
 #figure8{
   width: 50px;
   height: 50px;
-  background-image:url("image/rabbit3.jpg");
+  background-image:url("images/rabbit3.jpg");
 }
 #figure8:hover{
   width:50px;
   height:50px;
-background-image:url("image/rottie2.jpg");
+background-image:url("images/rottie2.jpg");
   }
 #figure9{
   width: 50px;
   height: 50px;
-background-image:url("image/rabbit1.jpg");
+background-image:url("images/rabbit1.jpg");
 }
 #figure9:hover{
   width:50px;
   height:50px;
-background-image: url("image/rottie2.jpg");
+background-image: url("images/rottie2.jpg");
 }
 
 /*td {
